@@ -26,3 +26,4 @@ try:
 
 except ValueError:
     print("Please enter valid numbers for price and discount percentage.")
+20
